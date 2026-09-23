@@ -14,14 +14,14 @@ int main()
     cout << "alpha = ";
     cin >> alpha;
 
-    z1 = sin(pi / 2 + 3 * alpha) /
-         (1 - sin(3 * alpha - pi));
+    z1 = sin(pi / 2 + 3 * alpha) / (1 - sin(3 * alpha - pi));
 
     z2 = 1 / tan(5 * pi / 4 + 3 * alpha / 2);
 
     cout << endl;
     cout << "z1 = " << z1 << endl;
     cout << "z2 = " << z2 << endl;
-
+    // виведення результатів обчислень
+    
     return 0;
 }
