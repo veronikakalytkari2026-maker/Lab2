@@ -22,6 +22,7 @@ int main()
     cout << endl;
     cout << "z1 = " << z1 << endl;
     cout << "z2 = " << z2 << endl;
+    cout << "Локальна зміна" << endl;
 
     return 0;
 }
