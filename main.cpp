@@ -21,6 +21,7 @@ int main()
 
     cout << endl;
     cout << "z1 = " << z1 << endl;
+    cout << "Зміна в гілці branch_02" << endl;
     cout << "z2 = " << z2 << endl;
 
     return 0;
